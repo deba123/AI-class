@@ -1,0 +1,31 @@
+review_text,sentiment,sentiment_label
+Great product! Excellent quality and very fast delivery.,1,positive
+Love this product. It works perfectly and exceeded my expectations.,1,positive
+Amazing! Best purchase ever. Highly recommend to everyone.,1,positive
+Outstanding quality and fantastic customer service. Worth every penny.,1,positive
+Perfect! Got exactly what I needed. Very satisfied with my purchase.,1,positive
+Excellent product quality. Fast shipping and great packaging.,1,positive
+Absolutely love it! Best value for money I've found.,1,positive
+Fantastic product! Works exactly as described. Very happy!,1,positive
+Best product I've bought online. Highly satisfied!,1,positive
+Great quality and arrived quickly. Very impressed!,1,positive
+Love the product! Great value and excellent quality.,1,positive
+Perfect purchase! Exactly what I was looking for.,1,positive
+Impressed with the quality. Delivery was also very fast.,1,positive
+Outstanding! Better than expected. Highly recommend!,1,positive
+Amazing quality! Worth the money completely.,1,positive
+Terrible product. Stopped working after one week.,0,negative
+Waste of money. Very poor quality. Disappointed.,0,negative
+Very bad experience. Product is broken and not useful.,0,negative
+Avoid this product! It's complete garbage and a scam.,0,negative
+Poor quality and customer service was rude.,0,negative
+Doesn't work as advertised. Total waste of money.,0,negative
+Worst purchase ever. Complete disaster. Not recommended.,0,negative
+Terrible! Arrived damaged and quality is awful.,0,negative
+Very disappointed. Product broke within days.,0,negative
+Absolutely horrible! Don't buy this product.,0,negative
+Poor quality and false advertisement. Very angry.,0,negative
+Not work at all. Completely useless product.,0,negative
+Bad experience from start to finish. Regret buying.,0,negative
+Extremely disappointed with the quality and service.,0,negative
+Awful product! Took money and delivered nothing good.,0,negative
